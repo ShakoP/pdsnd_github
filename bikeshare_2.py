@@ -61,7 +61,8 @@ def load_data(city, month, day):
         df = pd.read_csv('new_york_city.csv')
     elif (city == 'washington'):
         df = pd.read_csv('washington.csv')
-        
+
+    #Another commet to explain we are adding date columns from the df    
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['hour'] = df['Start Time'].dt.hour            
     df['month'] = df['Start Time'].dt.month
