@@ -12,7 +12,8 @@ The project is about working with veersion control
 
 ### Files used
 Include the files used
+Used the bikeshare_2.py file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to the UDACITY platform
