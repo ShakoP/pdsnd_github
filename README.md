@@ -20,3 +20,6 @@ Used the bikeshare_2.py file
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Credit to the UDACITY platform
+
+#Adding a comment on the nanodegree
+It was great an very practical.
