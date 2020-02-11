@@ -23,3 +23,6 @@ Credit to the UDACITY platform
 
 #Adding a comment on the nanodegree
 It was great an very practical.
+
+# Final commet
+This is Shako Peer's Project
