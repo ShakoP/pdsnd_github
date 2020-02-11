@@ -4,9 +4,11 @@ Created in 11.02.2020
 
 ### Project Title
 Replace the Project Title
+The project Title is "Shako's Project"
 
 ### Description
 Describe what your project is about and what it does
+The project is about working with veersion control
 
 ### Files used
 Include the files used
